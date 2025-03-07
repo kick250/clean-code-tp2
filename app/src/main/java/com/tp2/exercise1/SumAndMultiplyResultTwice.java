@@ -1,4 +1,4 @@
-package com.tp2.exercise_1;
+package com.tp2.exercise1;
 
 public class SumAndMultiplyResultTwice {
     public static int execute(int firstValue, int secondValue) {

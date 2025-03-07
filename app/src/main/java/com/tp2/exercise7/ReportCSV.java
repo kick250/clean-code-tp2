@@ -1,0 +1,18 @@
+package com.tp2.exercise7;
+
+public class ReportCSV implements Report {
+    @Override
+    public void generateHeader() {
+
+    }
+
+    @Override
+    public void generateBody() {
+
+    }
+
+    @Override
+    public void generateFooter() {
+
+    }
+}
